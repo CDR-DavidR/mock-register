@@ -1,4 +1,4 @@
-![Consumer Data Right Logo](https://raw.githubusercontent.com/ConsumerDataRight/mock-register/main/cdr-logo.png) 
+![Consumer Data Right Logo](./cdr-logo.png) 
 
 [![Consumer Data Standards v1.25.0](https://img.shields.io/badge/Consumer%20Data%20Standards-v1.25.0-blue.svg)](https://consumerdatastandardsaustralia.github.io/standards-archives/standards-1.25.0/#introduction)
 [![made-with-dotnet](https://img.shields.io/badge/Made%20with-.NET-1f425Ff.svg)](https://dotnet.microsoft.com/)
@@ -188,7 +188,7 @@ To get help on launching and debugging the solutions as containers and switching
 ## Mock Register - Architecture
 The following diagram outlines the high level architecture of the Mock Register:
 
-[<img src="https://raw.githubusercontent.com/ConsumerDataRight/mock-register/main/mock-register-architecture.png" height='600' width='850' alt="Mock Register - Architecture"/>](https://raw.githubusercontent.com/ConsumerDataRight/mock-register/main/mock-register-architecture.png)
+[<img src="./mock-register-architecture.png" height='600' width='850' alt="Mock Register - Architecture"/>](./mock-register-architecture.png)
 
 ## Mock Register - Components
 The Mock Register contains the following components:
